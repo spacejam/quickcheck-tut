@@ -5,4 +5,5 @@ authors = ["Tyler Neely <t@jujit.su>"]
 
 [dev-dependencies]
 quickcheck = "0.2"
+libc = "0.2"
 rand = "0.3"
