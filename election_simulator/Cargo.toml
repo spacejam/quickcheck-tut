@@ -1,0 +1,8 @@
+[package]           
+name = "election"      
+version = "0.1.0"   
+authors = ["Tyler Neely <t@jujit.su>"]
+                   
+[dev-dependencies]  
+quickcheck = "0.6"  
+rand = "0.4"
