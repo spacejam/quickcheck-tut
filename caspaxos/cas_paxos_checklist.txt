@@ -1,0 +1,2 @@
+proposers do not conflate response token for internal request key
+proposers do not conflate client request ID with internal request key

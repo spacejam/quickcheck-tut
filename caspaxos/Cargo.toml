@@ -1,0 +1,10 @@
+[package]
+name = "caspaxos"
+version = "0.0.0"
+publish = false
+authors = ["Tyler Neely <t@jujit.su>"]
+description = "a well-tested implementation of the CASPaxos protocol"
+
+[dev-dependencies]
+quickcheck = "0.6"
+rand = "0.4"
